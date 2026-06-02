@@ -1886,7 +1886,7 @@
     Play Book de Uso de Antimicrobianos · Hospital General Regional de Orizaba · IMSS · Veracruz
   </div>
   <div>
-    Elaborado con base en datos de biota institucional (n=5,849 aislamientos) · Criterios IDSA 2022–2024 · Clasificación Magiorakos et al. 2012 · Programa PROA Institucional
+    Elaborado con base en datos de biota institucional (n=5,849 aislamientos) Ene-May 2026· Criterios IDSA 2022–2024 · Clasificación Magiorakos et al. 2012 · Programa PROA Institucional
   </div>
   <div style="margin-top:6px;">
     Este documento es una herramienta de apoyo clínico. Ajustar siempre por función renal (TFGe), alergias documentadas e interacciones farmacológicas.
